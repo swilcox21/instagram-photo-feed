@@ -1,0 +1,39 @@
+body  {
+    font-family: 'PT Sans', sans-serif;
+    background-color: #eaeaea;
+}
+.header h1 {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+.feed {
+    display: flex;
+    flex-direction: column;
+}
+.posts {
+    background: white;
+    margin: 60px auto;
+    width: 500px;
+}
+.top {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.middle img {
+    height: 400px;
+    width: 500px;
+}
+.bottom {
+    padding: 15px;
+}
+.top-right {
+    color: #b6b7b8;
+}
+.top-left {
+    font-size: 18px;
+}
+.bottom p {
+    
+}
